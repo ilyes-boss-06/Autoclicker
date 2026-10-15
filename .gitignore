@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+*.exe
+*.pdb
+
+# Generated from assets/icon-source.jpg by make-icon.ps1 (run by build.ps1)
+app.ico
+src/logo.png
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+*.user
